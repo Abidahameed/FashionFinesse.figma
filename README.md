@@ -17,4 +17,7 @@ Contact: Explore the contact section, providing users with convenient access to 
 
 Designer Clothes: Immerse yourself in the exclusive collection of designer clothes showcased in an elegant and visually appealing manner, highlighting the latest trends and fashion statements.
 
+
 Exclusive Offers: Discover exclusive offers and promotions showcased in a dedicated section, enticing users with enticing deals and discounts on premium fashion items.
+
+![website](https://github.com/user-attachments/assets/0075f87b-09e8-476d-ba4d-491f0078e777)
